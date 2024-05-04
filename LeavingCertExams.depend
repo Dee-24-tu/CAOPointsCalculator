@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1703821189 source:c:\users\lebul\onedrive\documents\oop\dieketsengcynthialebuli_l6oop_a1_2023\leavingcertexams\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<stdlib.h>
+	<conio.h>
+

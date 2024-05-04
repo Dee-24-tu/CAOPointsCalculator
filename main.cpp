@@ -1,9 +1,9 @@
 #include <iostream>
 #include <iomanip>
 #include <cstdlib>
-//#include <ctime>
+#include <ctime>
 #include <stdlib.h>
-//#include <conio.h>
+#include <conio.h>
 
 using namespace std;
 
